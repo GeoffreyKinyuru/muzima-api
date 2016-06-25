@@ -20,7 +20,7 @@ public class Observation extends OpenmrsSearchable {
     private Encounter encounter;
 
     private Concept concept;
-
+    
     private Concept valueCoded;
 
     private Date valueDatetime;
