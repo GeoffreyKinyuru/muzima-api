@@ -147,7 +147,7 @@ public class Observation extends OpenmrsSearchable {
         this.voided = voided;
     }
     /**
-    * The following is an additional code
+    * THE following is an additional code
     * The code enhances the user interations with the Obs
     * It allows users to understand the current state of data in the respective obs form cells
     * Its not yet complete
